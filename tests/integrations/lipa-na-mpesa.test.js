@@ -3,7 +3,7 @@ const emitter = require('.././helpers/callbacksemitter')
 const testInstance = require('.././helpers/instance')
 let checkoutRequestId = null
 describe('Lipa Na Mpesa Online Callbacks', function () {
-  const testMSISDN = 254708374149
+  const testMSISDN = 254718385412
   const amount = 100
   it('gets a lipaNaMpesa success callback from Daraja', function (done) {
     // Since we have to wait for a time out and das sad and
