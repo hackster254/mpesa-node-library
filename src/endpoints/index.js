@@ -23,16 +23,3 @@ module.exports = {
   oAuth
 }
 
-/*
-const mpesaApi = new Mpesa({ consumerKey: 'xnEeL5WcYwOxcTcX0FwBkpLdB3izoItO ', consumerSecret: 'x47S5MSKC0YhxcTw' })
-const {
-  accountBalance,
-  b2b,
-  b2c,
-  c2bRegister,
-  c2bSimulate,
-  lipaNaMpesaOnline,
-  lipaNaMpesaQuery,
-  reversal,
-  transactionStatus
-} = mpesaApi
