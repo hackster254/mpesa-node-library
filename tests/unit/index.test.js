@@ -1,6 +1,6 @@
 const expect = require('expect.js')
 const Mpesa = require('../.././src/m-pesa')
-const instance = new Mpesa({ consumerKey: 'test', consumerSecret: 'test' })
+const instance = new Mpesa({ consumerKey: 'xnEeL5WcYwOxcTcX0FwBkpLdB3izoItO', consumerSecret: 'x47S5MSKC0YhxcTw' })
 const {
   accountBalance,
   b2b,
